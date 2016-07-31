@@ -1,0 +1,18 @@
+*.class
+*.cfg.xml
+
+
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+*.iml
+.idea/
+
+*.properties
+
+target/
+*.jpg
+*war

@@ -1,0 +1,40 @@
+
+table.table-condensed {
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 5%;
+}
+
+td{
+
+    border: 1px solid black;
+    padding: 3px;
+}
+
+th.dep{
+    width: 70%;
+}
+
+th {
+    text-align: center;
+    background: #ccc;
+    padding: 5px;
+    border: 1px solid black;
+}
+
+
+.noWrap {
+    text-align: center;
+    border: 0px;
+    white-space: nowrap;
+    width: 50px;
+
+    table-layout: fixed;
+}
+
+p.error {
+    color: brown;
+}
+
+
+
